@@ -9,7 +9,7 @@ As an HR manager, I want a comprehensive dashboard to analyse human resources da
 
 The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
 
-##Overview
+##**Overview**
 
 The Overview section should provide a snapshot of the overall HR metrics, including:
 
