@@ -5,7 +5,7 @@ This HR dashboard projects using Tableau from requirements to professional dashb
 
 As an HR manager, I want a comprehensive dashboard to analyse human resources data, providing both summary views for high-level insights and detailed employee records for in-depth analysis
 
-**Summary** **View**
+**Summary View**
 
 The summary view should be divided into three main sections: Overview, Demographics, and Income Analysis
 
