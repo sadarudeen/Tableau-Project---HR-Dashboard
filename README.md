@@ -51,3 +51,4 @@ The income analysis section should focus on salary-related metrics, including:
 
 •	Users should be able to filter the list based on any of the available columns.
 
+#**Data Generation**
